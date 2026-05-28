@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|c:\\users\\harik\\source\\repos\\job application tracker\\job application tracker\\controllers\\jobapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\controllers\\jobapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|c:\\users\\harik\\source\\repos\\job application tracker\\job application tracker\\dtos\\updatestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\dtos\\updatestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|c:\\users\\harik\\source\\repos\\job application tracker\\job application tracker\\dtos\\createjobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\dtos\\createjobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|c:\\users\\harik\\source\\repos\\job application tracker\\job application tracker\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Migrations\\20260524045032_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Job Application Tracker\\Migrations\\20260524045032_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|c:\\users\\harik\\source\\repos\\job application tracker\\job application tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|c:\\users\\harik\\source\\repos\\job application tracker\\job application tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|c:\\users\\harik\\source\\repos\\job application tracker\\job application tracker\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|c:\\users\\harik\\source\\repos\\job application tracker\\job application tracker\\job application tracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\job application tracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|c:\\users\\harik\\source\\repos\\job application tracker\\job application tracker\\migrations\\20260524045420_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\migrations\\20260524045420_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Controllers\\JobApplicationsController.cs",
+              "RelativeDocumentMoniker": "Job Application Tracker\\Controllers\\JobApplicationsController.cs",
+              "ToolTip": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Controllers\\JobApplicationsController.cs",
+              "RelativeToolTip": "Job Application Tracker\\Controllers\\JobApplicationsController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T05:15:27.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\DTOs\\UpdateStatusDto.cs",
+              "RelativeDocumentMoniker": "Job Application Tracker\\DTOs\\UpdateStatusDto.cs",
+              "ToolTip": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\DTOs\\UpdateStatusDto.cs",
+              "RelativeToolTip": "Job Application Tracker\\DTOs\\UpdateStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAABwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:45:30.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateJobApplicationDto.cs",
+              "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\DTOs\\CreateJobApplicationDto.cs",
+              "RelativeDocumentMoniker": "Job Application Tracker\\DTOs\\CreateJobApplicationDto.cs",
+              "ToolTip": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\DTOs\\CreateJobApplicationDto.cs",
+              "RelativeToolTip": "Job Application Tracker\\DTOs\\CreateJobApplicationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T05:58:16.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260524045420_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Migrations\\20260524045420_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Job Application Tracker\\Migrations\\20260524045420_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Migrations\\20260524045420_InitialCreate.cs",
+              "RelativeToolTip": "Job Application Tracker\\Migrations\\20260524045420_InitialCreate.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T04:54:20.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "Job Application Tracker\\Models\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Models\\JobApplication.cs",
+              "RelativeToolTip": "Job Application Tracker\\Models\\JobApplication.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T17:57:56.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260524045032_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Migrations\\20260524045032_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Job Application Tracker\\Migrations\\20260524045032_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Migrations\\20260524045032_InitialCreate.cs",
+              "RelativeToolTip": "Job Application Tracker\\Migrations\\20260524045032_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T04:50:32.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\appsettings.json",
+              "RelativeDocumentMoniker": "Job Application Tracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\appsettings.json",
+              "RelativeToolTip": "Job Application Tracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T20:03:13.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Job Application Tracker\\Program.cs",
+              "ToolTip": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Program.cs",
+              "RelativeToolTip": "Job Application Tracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:20:59.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Job Application Tracker\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Job Application Tracker\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T18:42:24.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Job Application Tracker.csproj",
+              "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Job Application Tracker.csproj",
+              "RelativeDocumentMoniker": "Job Application Tracker\\Job Application Tracker.csproj",
+              "ToolTip": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Job Application Tracker.csproj",
+              "RelativeToolTip": "Job Application Tracker\\Job Application Tracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-23T17:51:31.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
