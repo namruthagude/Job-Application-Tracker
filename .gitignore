@@ -1,0 +1,25 @@
+## Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+out/
+
+## NuGet packages
+packages/
+*.nupkg
+
+## User specific files
+*.rsuser
+
+## Windows
+Thumbs.db
+Desktop.ini
+
+## ASP.NET
+wwwroot/
