@@ -1,11 +1,14 @@
 ﻿using Job_Application_Tracker.Data;
 using Job_Application_Tracker.DTOs;
 using Job_Application_Tracker.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Security.Claims;
 
 namespace Job_Application_Tracker.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class JobApplicationsController : ControllerBase
@@ -20,7 +23,9 @@ namespace Job_Application_Tracker.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAll(string? status = null, string? company = null)
         {
-            var query =  _context.JobApplications.AsQueryable();
+            var userId = int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)!);
+
+            var query =  _context.JobApplications.Where(x => x.UserId == userId).AsQueryable();
 
             if(!string.IsNullOrEmpty(status))
             {
@@ -64,6 +69,7 @@ namespace Job_Application_Tracker.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] CreateJobApplicationDto dto)
         {
+            var userId = int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)!);
             var application = new JobApplication
             {
                 CompanyName = dto.CompanyName,
@@ -73,6 +79,7 @@ namespace Job_Application_Tracker.Controllers
                 AppliedDate = DateTime.Now,
                 Status = "Applied",
                 Notes = dto.Notes,
+                UserId = userId,
 
             };
 
