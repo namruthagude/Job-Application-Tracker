@@ -105,7 +105,7 @@ namespace Job_Application_Tracker.Controllers
             
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
             var application = await _context.JobApplications.FindAsync(id);
