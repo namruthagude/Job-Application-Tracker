@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|c:\\users\\harik\\source\\repos\\job application tracker\\job application tracker\\controllers\\jobapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\controllers\\jobapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|c:\\users\\harik\\source\\repos\\job application tracker\\job application tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|c:\\users\\harik\\source\\repos\\job application tracker\\job application tracker\\controllers\\jobapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|solutionrelative:job application tracker\\controllers\\jobapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67530E5D-3EE3-42D2-8D39-55C6DD8D2261}|Job Application Tracker\\Job Application Tracker.csproj|c:\\users\\harik\\source\\repos\\job application tracker\\job application tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,6 +90,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Controllers\\JobApplicationsController.cs",
+              "RelativeDocumentMoniker": "Job Application Tracker\\Controllers\\JobApplicationsController.cs",
+              "ToolTip": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Controllers\\JobApplicationsController.cs",
+              "RelativeToolTip": "Job Application Tracker\\Controllers\\JobApplicationsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T05:15:27.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Job Application Tracker\\Program.cs",
+              "ToolTip": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Program.cs",
+              "RelativeToolTip": "Job Application Tracker\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:20:59.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Dockerfile.txt",
               "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Dockerfile.txt",
@@ -98,21 +124,7 @@
               "RelativeToolTip": "Job Application Tracker\\Dockerfile.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-06-03T20:50:48.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Program.cs",
-              "RelativeDocumentMoniker": "Job Application Tracker\\Program.cs",
-              "ToolTip": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Program.cs",
-              "RelativeToolTip": "Job Application Tracker\\Program.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T20:20:59.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T20:50:48.975Z"
             },
             {
               "$type": "Document",
@@ -148,21 +160,7 @@
               "RelativeToolTip": "Job Application Tracker\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-23T20:03:13.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JobApplicationsController.cs",
-              "DocumentMoniker": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Controllers\\JobApplicationsController.cs",
-              "RelativeDocumentMoniker": "Job Application Tracker\\Controllers\\JobApplicationsController.cs",
-              "ToolTip": "C:\\Users\\harik\\source\\repos\\Job Application Tracker\\Job Application Tracker\\Controllers\\JobApplicationsController.cs",
-              "RelativeToolTip": "Job Application Tracker\\Controllers\\JobApplicationsController.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAmwIIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T05:15:27.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T20:03:13.636Z"
             },
             {
               "$type": "Document",
