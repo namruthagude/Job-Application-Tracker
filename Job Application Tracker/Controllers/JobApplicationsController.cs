@@ -69,7 +69,12 @@ namespace Job_Application_Tracker.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] CreateJobApplicationDto dto)
         {
-            var userId = int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)!);
+            var userIdString = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+            if (string.IsNullOrEmpty(userIdString))
+                return Unauthorized("User not found in token");
+
+            var userId = int.Parse(userIdString);
             var application = new JobApplication
             {
                 CompanyName = dto.CompanyName,
