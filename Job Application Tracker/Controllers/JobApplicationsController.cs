@@ -81,7 +81,7 @@ namespace Job_Application_Tracker.Controllers
                 JobTitle = dto.JobTitle,
                 JobBoard = dto.JobBoard,
                 SalaryExpected = dto.SalaryExpected,
-                AppliedDate = DateTime.Now,
+                AppliedDate = DateTime.UtcNow,
                 Status = "Applied",
                 Notes = dto.Notes,
                 UserId = userId,
