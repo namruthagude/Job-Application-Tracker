@@ -66,10 +66,12 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReact", policy =>
     {
-        policy.WithOrigins("http://localhost:5173",
-            "https://job-seeker-job-tracker.netlify.app")
-              .AllowAnyHeader()
-              .AllowAnyMethod();
+        policy.WithOrigins(
+            "http://localhost:5173",
+            "https://job-seeker-job-tracker.netlify.app"
+        )
+        .AllowAnyHeader()
+        .AllowAnyMethod();
     });
 });
 
