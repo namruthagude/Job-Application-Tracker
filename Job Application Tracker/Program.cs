@@ -89,6 +89,13 @@ else
     app.UseSwaggerUI();
 }
 
+app.Use(async (context, next) =>
+{
+    context.Response.Headers.Add("Access-Control-Allow-Origin", "*");
+    context.Response.Headers.Add("Access-Control-Allow-Methods", "*");
+    context.Response.Headers.Add("Access-Control-Allow-Headers", "*");
+    await next();
+});
 app.UseCors("AllowReact");
 //app.UseHttpsRedirection();
 
